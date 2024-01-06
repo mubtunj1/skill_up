@@ -76,6 +76,9 @@ export async function POST(
       });
     }
 
+    console.log("APP_URL:", process.env.NEXT_PUBLIC_APP_URL);
+
+
     const session = await stripe.checkout.sessions.create({
       customer: stripeCustomer.stripeCustomerId,
       line_items,

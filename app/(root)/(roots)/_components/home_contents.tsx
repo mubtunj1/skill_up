@@ -28,7 +28,7 @@ const HomeContentsItem = [
 
 export const HomeContents = () => {
     return(
-        <div className="flex flex-row  xl:flex-grow justify-between gap-y-16 grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4">
+        <div className="  xl:flex-grow justify-between justify-items-center gap-y-16 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {HomeContentsItem.map((item) => (
                 <HomeContentsItems
                     key={item.label}

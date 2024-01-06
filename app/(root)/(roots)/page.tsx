@@ -32,7 +32,7 @@ const HomePage = async ({
             <div className="gap-y-5 px-10  pt-[72px] h-[95vh] w-full bg-cover bg-fixed bg-[url('/1.png')]">
                 <HeroContents />
             </div>
-            <div className="pt-6">
+            <div className="p-5">
             <HomeContents />
             </div>    
             <div className="py-10 px-10">
