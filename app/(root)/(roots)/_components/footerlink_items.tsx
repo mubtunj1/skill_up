@@ -21,7 +21,7 @@ export const FooterLink = ({
         <button
             onClick={onLinkClick}
             type="button"
-            className="flex items-center gap-x-2 text-slate-100 text-sm font-[500] pl-6 transition-all hover:text-slate-600 hover:bg-slate-300/20"
+            className="flex items-center gap-x-2 text-slate-100 text-sm font-[500] transition-all hover:text-slate-600 hover:bg-slate-300/20"
         >
             <div className="flex items-center gap-x-2 py-2">
                 <ArrowRight size={20} />
