@@ -33,7 +33,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-lms-platform.git
+git clone https://github.com/mubtunj1/skill_up.git
 ```
 
 ### Install packages
