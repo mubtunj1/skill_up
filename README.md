@@ -1,4 +1,4 @@
-This is the repository SkillUp: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL
+This is the repository for SkillUp: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL
 
 Key Features:
 
@@ -84,3 +84,8 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+
+## Authors
+[OWOLABI MUBARAQ ADETUNJI](https://github.com/mubtunj1)
+[WILFRED MUGWE MUGACHA](https://github.com/Wmugacha)
