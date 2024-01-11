@@ -90,5 +90,5 @@ Running commands with npm `npm run [command]`
 
 
 ## Authors
-[OWOLABI MUBARAQ ADETUNJI](https://github.com/mubtunj1)
-[WILFRED MUGWE MUGACHA](https://github.com/Wmugacha)
+[Owolabi Mbubaraq Adetunji](https://github.com/mubtunj1)  
+[Wilfred Mugwe Mugacha](https://github.com/Wmugacha)
