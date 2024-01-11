@@ -1,3 +1,6 @@
+![Image Alt text](/skill_up/public/SkillUp%20Readme.jpg)
+
+
 This is the repository for SkillUp: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL
 
 Key Features:
