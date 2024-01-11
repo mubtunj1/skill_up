@@ -1,4 +1,4 @@
-![Image Alt text](/skill_up/public/SkillUp%20Readme.jpg)
+![Image Alt text](https://github.com/mubtunj1/skill_up/blob/main/public/SkillUp%20Readme.jpg)
 
 
 This is the repository for SkillUp: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL
